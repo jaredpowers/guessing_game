@@ -30,9 +30,8 @@ class Game
       else
         puts "See you soon!"
       end
-
-    end
   end
+end
 
 game = Game.new
 game.start
